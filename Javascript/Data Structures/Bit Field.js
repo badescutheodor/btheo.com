@@ -10,7 +10,7 @@ var bitField = function(fields) {
   * but for demo purposes, we are setting the fields
   * to a default 0 value.
   */
-	this.fields = fields || 0;
+  this.fields = fields || 0;
   
   /**
   * Checks if the bit is 1 ( true value )
